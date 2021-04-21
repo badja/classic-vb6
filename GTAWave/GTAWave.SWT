@@ -1,0 +1,67 @@
+[Setup Wizard Template]
+TemplateDate=30/10/99 11:32:22 pm
+
+[Select Project and Options]
+txtProjFile=C:\Program Files\DevStudio\VB\Projects\GTAWave\GTAWave.vbp
+chkProjRebuild=0
+optBldSetup=True
+chkIncludeDEP=0
+optInternet=False
+optDEPOnly=False
+
+[Distribution Method]
+optFloppyTarg=False
+optSingleDirTarg=True
+optMultDirTarg=False
+
+[Single Directory]
+cboFloppyDrives=0
+cboFloppyDriveSize=0
+txtDirTarget=C:\WINDOWS\DESKTOP\GTAWAVE\
+
+[Internet Package]
+optRemoteSite=True
+optLocalSite=False
+txtLocalSite=
+
+[Data Access]
+chkUseJet=1
+chkUseODBC=0
+Isam0=
+
+[ActiveX Server Components]
+File1=
+
+[Confirm Dependencies]
+File1="C:\WINDOWS\SYSTEM\COMDLG32.OCX",True,32764
+File2="C:\WINDOWS\SYSTEM\COMCTL32.OCX",True,32764
+File3="C:\WINDOWS\SYSTEM\COMCT232.OCX",True,32764
+File4=
+
+[Shared ActiveX Application]
+optDeployApplication=True
+optDeployShared=False
+optRemoteServer1=True
+optRemoteServer0=False
+
+[File Summary]
+File1="C:\WINDOWS\SYSTEM\MSVBVM50.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File2="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\StdOle2.tlb",True,"$(WinSysPathSysFile)",$(TLBRegister),False
+File3="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OleAut32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File4="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OlePro32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File5="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AsycFilt.dll",True,"$(WinSysPathSysFile)",,False
+File6="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Ctl3d32.dll",True,"$(WinSysPathSysFile)",,False
+File7="C:\Program Files\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\ComCat.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File8="C:\WINDOWS\SYSTEM\COMDLG32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File9="C:\WINDOWS\SYSTEM\COMCTL32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File10="C:\WINDOWS\SYSTEM\COMCT232.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File11="C:\Program Files\DevStudio\VB\Projects\GTAWave\GTAWave.exe",True,"$(AppPath)",,False
+File12="C:\Program Files\DevStudio\VB\Projects\GTAWave\ReadMe.txt",True,"$(AppPath)",,False
+File13="C:\Program Files\DevStudio\VB\Projects\GTAWave\bildemo.sdf",True,"$(AppPath)",,False
+File14="C:\Program Files\DevStudio\VB\Projects\GTAWave\fstyle.sdf",True,"$(AppPath)",,False
+File15="C:\Program Files\DevStudio\VB\Projects\GTAWave\level.sdf",True,"$(AppPath)",,False
+File16="C:\Program Files\DevStudio\VB\Projects\GTAWave\level000.sdf",True,"$(AppPath)",,False
+File17="C:\Program Files\DevStudio\VB\Projects\GTAWave\ste.sdf",True,"$(AppPath)",,False
+File18="C:\Program Files\DevStudio\VB\Projects\GTAWave\vocalcom.sdf",True,"$(AppPath)",,False
+File19="C:\Program Files\DevStudio\VB\Projects\GTAWave\wil.sdf",True,"$(AppPath)",,False
+File20="C:\Program Files\DevStudio\VB\Projects\GTAWave\bil.sdf",True,"$(AppPath)",,False

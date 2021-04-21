@@ -1,0 +1,130 @@
+[Root]
+Most Recent Package=TileEditor
+
+
+[Package|TileEditor|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Package
+
+[Package|TileEditor|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TileEditor|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TileEditor|Files Found]
+
+[Package|TileEditor|Files Released]
+
+[Package|TileEditor|Missing Dependency Information]
+
+[Package|TileEditor|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+
+[Package|TileEditor|Files Added]
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Default.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow1.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow2.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow3.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow4.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow5.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow6.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow7.bmp=
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow8.bmp=
+
+[Package|TileEditor|Files Removed]
+
+[Package|TileEditor|Files In Project]
+C:\jdk1.1.8\src\TileEditor.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Default.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow1.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow3.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow4.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow5.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow6.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow7.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow8.bmp=Yes
+
+[Package|TileEditor|Configure Registry Files]
+Applicable=No
+
+[Package|TileEditor|Configure Remote Servers]
+Applicable=No
+
+[Package|TileEditor|Install Locations]
+C:\jdk1.1.8\src\TileEditor.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Default.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow1.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow2.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow3.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow4.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow5.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow6.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow7.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow8.bmp=$(AppPath)
+
+[Package|TileEditor|Configure Shared Files]
+Applicable=Yes
+C:\jdk1.1.8\src\TileEditor.exe=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Default.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow1.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow2.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow3.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow4.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow5.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow6.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow7.bmp=No
+C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\arrow8.bmp=No
+
+[Package|TileEditor|Distribution]
+Type=single
+Size=
+Title=TileEditor
+
+[Package|TileEditor|IconGroups]
+Group0=TileEditor
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|TileEditor|TileEditor]
+Icon1=TileEditor.exe
+Title1=TileEditor
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TileEditor|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Package
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Package\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Package\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\MyProjects\TileEditor\Package\TileEditor.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
